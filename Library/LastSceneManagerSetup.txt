@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Orbis.unity
+  isLoaded: 1
+  isActive: 1
